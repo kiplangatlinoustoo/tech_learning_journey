@@ -3,12 +3,12 @@ Learning Journey
 My technology learning journey through Linux, software engineering,
 programming, Git, and cybersecurity.
 
-# Learning Philosophy
+ Learning Philosophy
 
 I am documenting my learning using:
-> CONCEPT-WHY-COMMAND-BREAK IT DOWN-YOU PRACTICE-YOU EXPLAIN IT BACK
+CONCEPT-WHY-COMMAND-BREAK IT DOWN-YOU PRACTICE-YOU EXPLAIN IT BACK
 
-# Learning Areas
+ Learning Areas
 
 - Linux
 - HTML
@@ -19,26 +19,17 @@ I am documenting my learning using:
 - Python
 - Cybersecurity
 
-# Progress
+ Progress
 
-# Linux
-- [ ] Linux Foundations
-- [ ] Shell Basics
-- [ ] Filesystem Navigation
-- [ ] Files and Directories
-- [ ] File Permissions
-- [ ] Shell Redirections
-- [ ] Shell Variables
+ Linux
+- [ ] Learning The Shell
+- [ ] Configuration and Environment
+- [ ] Common Tasks and Essential Tools
+- [ ] Writing Shell Scripts
 
-# HTML
-- [ ] HTML Foundations
 
-# Git
-- [ ] Git Foundations
-- [ ] GitHub Workflow
 
 # Goal
-
 To build strong foundations in Linux, software engineering,
 programming, and cybersecurity through consistent practice,
 documentation, and real projects.
