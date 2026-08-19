@@ -146,10 +146,3 @@ Understanding the difference between the two execution methods, and how file per
 - [x] Used `chmod` to manage execute permission.
 
 ---
-
-## Next Chapter
-
-➡️ **02 - Bash Commands**
-
-In the next chapter, I will begin learning and practicing the core Bash commands used for navigating the filesystem and managing files and directories.
-
